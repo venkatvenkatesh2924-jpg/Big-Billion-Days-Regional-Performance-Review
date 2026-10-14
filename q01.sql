@@ -1,4 +1,4 @@
--- Which orders are currently pending?
+-- -- Q 01-PENDING orders
 SELECT order_id, customer_id, item, amount
 FROM orders
 WHERE status = 'pending'

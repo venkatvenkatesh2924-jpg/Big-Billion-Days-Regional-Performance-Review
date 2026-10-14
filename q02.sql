@@ -1,4 +1,4 @@
--- Which orders have a missing amount?
+-- -- Q 02 -MISSING AMOUNTS
 SELECT order_id, customer_id, item, status
 FROM orders
 WHERE amount IS NULL

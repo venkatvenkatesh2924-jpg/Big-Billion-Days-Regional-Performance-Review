@@ -1,4 +1,4 @@
--- How many orders and how much amount are recorded for each status?
+-- Q06-ORDERS BY STATUS 
 SELECT
     status,
     COUNT(*) AS number_of_orders,

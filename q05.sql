@@ -1,4 +1,4 @@
--- What are the headline KPIs for completed orders?
+-- Q 05-HEADLINE KPI's 
 SELECT
     COUNT(*) AS total_orders,
     SUM(amount) AS total_revenue,

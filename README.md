@@ -1,4 +1,4 @@
-
+## Big Billion Days Regional Performance Review — SQL, Spreadsheet, Dashboard and AI-Verified Analysis
 
 Welcome! This project takes sales-order data through three stages:
 
